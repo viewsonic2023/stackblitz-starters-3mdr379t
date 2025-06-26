@@ -15,7 +15,7 @@ export default function Home() {
       <h1 className="text-2xl font-bold">My Simple App</h1>
       <input 
         className="border p-2 rounded w-full" 
-        placeholder="Type something here..." 
+        placeholder="Type something hereeee..." 
       />
       <button 
         className="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
